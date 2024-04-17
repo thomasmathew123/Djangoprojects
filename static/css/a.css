@@ -1,0 +1,23 @@
+body
+{
+background-color:#2888bf;
+font-family: 'Roboto', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+.footer
+{
+height:40px;
+width:100%;
+background-color:white;
+position:fixed;
+bottom:0;
+left:0;
+text-align:center;
+font-weight:bold;
+}
+.table-border
+{
+border-width:4px;
+}
